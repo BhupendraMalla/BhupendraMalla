@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhupendraMalla
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning java and it's framework.
+- 🌱 I’m currently learning python and it's framework.
 - 📫 How to reach me - you can reach through my email bhupendramalla321@gmail.com
 - 😄 Pronouns: he/him
 
